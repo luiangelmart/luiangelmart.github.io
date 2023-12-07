@@ -8,7 +8,7 @@ Lab 01 Part-1
 
 Lab 1 is one of my personal favorite labs because it was the one that had started it all and was the introduction to all the future labs I would end up participating in. It had shown me just a very very small taste of what was yet to come. Looking back at it now, I feel a sense of humor, that back then I had believed that coding something like hello world was insanely difficult. Which is ironic because im sure in the labs to come I'd feel the exact same way as I did back then.
 
-Lab 04 Part 1 & 2
+Lab 04 Part-1 & 2
 
 Lab 4 is one of my other favorites because it was the first one where I actually had understood what linting was. I remember I was struggling trying to figure out what lint was in code. I was so confused as to why my code was running perfectly, but for whatever reason it would not pass the linting test. That's when I had searched the term up several times and realized that lint was the computer telling me that I could write my code more efficiently than what it was already. I remember spending over an hour troubleshooting and "linting" my group's code, but once I had finally finished, I felt amazing. It was exhilirating, I had finally figured out the problem that had been bugging me for over and hour.
 
