@@ -4,7 +4,7 @@ I am a computer science major at CSUF and I plan on graduating in 2028.
 
 ## Computer Science Projects
 
-My github page is http://github.com/luiangelmart.
+My github page is <http://github.com/luiangelmart>
 
 ### Favorite CPSC 120L Labs
 
